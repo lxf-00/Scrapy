@@ -6,3 +6,8 @@
 - requests, lxml(etree), re, json, string; 
 
 
+### 2, cnki.py  + 知网.xlsx
+- 知网爬虫
+- 爬取的信息（以python为例）：题名，作者，来源，发表时间，数据库，下载次数
+- selenium, xlmt, 
+
